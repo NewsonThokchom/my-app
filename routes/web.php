@@ -17,5 +17,7 @@ Route::get('/', function () {
 
 
 get('about',function(){
-    
+
 });
+
+// Whatever logic to add reporting
