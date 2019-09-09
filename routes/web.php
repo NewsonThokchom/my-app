@@ -20,4 +20,9 @@ get('about',function(){
 
 });
 
+get('reporting',function(){
+
+});
+
+
 // Whatever logic to add reporting
